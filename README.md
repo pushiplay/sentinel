@@ -2,8 +2,6 @@
 
 An all-powerful toolset for Pushi.
 
-[![Build Status](https://travis-ci.org/pushiplay/sentinel.svg?branch=master)](https://travis-ci.org/pushiplay/sentinel)
-
 Sentinel is an autonomous agent for persisting, processing and automating Pushi V12.1 governance objects and tasks, and for expanded functions in the upcoming Pushi V13 release (Evolution).
 
 Sentinel is implemented as a Python application that binds to a local version 12.1 pushid instance on each Pushi V12.1 Masternode.
